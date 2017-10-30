@@ -1,0 +1,182 @@
+body{
+	margin:auto 0;
+	background-color:#7289da;
+	font-size:18px;
+}
+#header{
+	padding:20px;
+	background-color:#fff;
+	overflow:hidden;
+	color:#7289da !important;
+}
+#logo{
+	float:left;
+}
+#nav{
+	float:left;
+}
+#nav li{
+	float:left;
+	list-style:none;
+	margin-right:20px;
+}
+#nav li a{
+	text-decoration:none;
+	color:#7289da;
+}
+#nav li a:hover{
+	color:#0c3ef0;
+}
+
+#social {
+	float: right;
+	font-size: 27px;
+	margin-right:25px;
+}
+#social a:link,
+#social a:visited {
+	color: #7289da;
+	text-decoration:none;
+}
+#social a:hover {
+	color: #0c3ef0;
+}
+#social a:active {
+	color: #730507;
+}
+.login{
+	width:50px;
+	border-radius:30px;
+}
+#social .login{
+	font-size: 20px;
+	width:50px;
+	padding:10px;
+	background-color:#7289da;
+	color:#fff !important;
+	border-radius:30px;
+}
+#main{
+	width:700px;
+	margin:auto;
+	text-align:center;
+	color:#fff;
+}
+.naslov{
+	text-align:center;
+	position:relative;
+	margin-bottom:10px;
+}
+.dugme{
+	margin:50px;
+	background-color:#fff;
+	width:250px;
+	border-radius:5px;
+	color:#7289da;
+	text-align:center;
+}
+.dugme a:hover{
+	color:#0c3ef0;
+}
+.dugme a{
+	text-decoration:none;
+	color:#7289da;
+}
+.dugme1{
+	float:left;
+}
+.dugme2{
+	float:right;
+}
+.jedan{
+	position:relative;
+	left:220px;
+}
+.dva{
+	position:relative;
+	left:220px;
+}
+.tri{
+	position:relative;
+	left:200px;
+}
+.cetiri{
+	position:relative;
+	right:120px;
+}
+.pet{
+	position:relative;
+	left:500px;
+	top:-100px;
+}
+.learn{
+	position:relative;
+	left:650px;
+	width:100px;
+	text-align:center;
+	padding:20px;
+	margin-bottom:50px;
+	text-decoration:none;
+	border:solid #fff 1px;
+	border-radius:5px;
+	background-color:#fff;
+	font-size:18px;
+	color:#fff;
+}
+.learn a{
+	text-decoration:none;
+	color:#7289da;
+}
+.learn a:hover{
+	color:#0c3ef0;
+}
+#footer{
+	padding:0 100px;
+	//background-color:#fff;
+	height:200px;
+}
+.log{
+	float:left;
+	margin:0 100px;
+	margin-top:20px;
+}
+.navigation li{
+	list-style:none;
+}
+.first{
+	color:#fff;
+	margin-bottom:10px;
+}
+.navigation{
+	float:left;
+	color:#bac8f9;
+	margin-right:80px;	
+}
+.clear{
+	clear:both;
+}
+.left{
+	float:left;
+	color:#fff;
+	margin-top:20px;
+}
+.right{
+	float:right;
+	background-color:#fff;
+	color:#bac8f9;
+	margin-top:20px;
+	padding:0 10px;
+	width:100px;
+	border-radius:5px;
+}
+.right a{
+	text-decoration:none;
+	color:#7289da;
+}
+.right a:hover{
+	color:#0c3ef0;
+}
+
+
+@media only screen and (max-width: 480px){
+	
